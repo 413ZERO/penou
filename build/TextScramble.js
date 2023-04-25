@@ -73,8 +73,13 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Hi! </br> I\'m Zehan Bao / Justin </br> A hybrid innovation designer </br> Curiosity-driven creative technologist',
-'I\'m passionate about </br> creating insightful designs </br> that refresh people\'s preconceptions'
+'Hi! </br> Penou Design is here </br> We are an innovation-driven creative design company',
+'Committed to bringing </br> intelligent strategy, compelling content </br> and delightful experiences to brands and life.',
+'Brand new website coming soon......',
+
+'嗨！</br> 这里是Penou Design </br> 我们是一家创新驱动的创意设计公司',
+'我们致力于将智能策略， </br> 动人内容和美好体验带给品牌与生活。',
+'全新网站尽情期待......',
 
 ];
 
